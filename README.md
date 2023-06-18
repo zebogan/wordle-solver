@@ -5,7 +5,7 @@ instructions:
 1. do whatever starting word you want
 2. input results into mem.txt in this format:
 
-yyn\n
+yyn<br/>
 a b c d
 x y z
 0 1 2
