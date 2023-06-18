@@ -6,11 +6,11 @@ instructions:
 2. input results into mem.txt in this format:
 
 yyn<br/>
-a b c d
-x y z
-0 1 2
-e f
-3 4
+a b c d<br/>
+x y z<br/>
+0 1 2<br/>
+e f<br/>
+3 4<br/>
 
 (spaces are always needed except for line 1)
 first line is whether there are letters of each type (gray yellow green)
