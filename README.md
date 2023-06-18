@@ -12,13 +12,13 @@ x y z<br/>
 e f<br/>
 3 4<br/>
 
-(spaces are always needed except for line 1)
-first line is whether there are letters of each type (gray yellow green)
-second is gray letters
-third is yellow letters
-fourth is yellow letter positions (0-4)
-fifth is green letters
-sixth is green letter positions (0-4)
+(spaces are always needed except for line 1)<br/>
+first line is whether there are letters of each type (gray yellow green)<br/>
+second is gray letters<br/>
+third is yellow letters<br/>
+fourth is yellow letter positions (0-4)<br/>
+fifth is green letters<br/>
+sixth is green letter positions (0-4)<br/>
 
 3. run wordle.py
 4. either use the random word generated from wordle.py or pick your own from output.txt
