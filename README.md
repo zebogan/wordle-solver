@@ -1,8 +1,15 @@
 # wordle-solver
  a python program i wrote to help you solve the wordle
 
-instructions:
-1. do whatever starting word you want
+instructions for getting program:
+1. click on code
+2. click Download ZIP
+3. download the file
+4. extract the zip
+5. open folder and continue with below instructions
+
+instructions for using program:
+1. do whatever starting word you want in the wordle
 2. input results into mem.txt in this format:
 
 yyn<br/>
